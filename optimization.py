@@ -1,0 +1,1 @@
+Implementation of novel optimization algorithm with attention mechanisms for patent opportunity
