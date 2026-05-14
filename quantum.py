@@ -1,0 +1,1 @@
+def quantum_algorithm(): patent worthy invention
