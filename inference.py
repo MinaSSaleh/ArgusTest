@@ -1,0 +1,1 @@
+class InferenceOptimizer: def optimize_transformer_attention(): patentable
